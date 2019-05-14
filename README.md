@@ -1,2 +1,1 @@
-# Cheffrey
-open source
+# Project text here...open source
